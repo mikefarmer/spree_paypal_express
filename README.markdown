@@ -1,3 +1,10 @@
+# Explanation of this fork
+  1. What was needed was a fork that would work specifically with 0.60.x version of spree.
+  1. Conform to customizations made in the [Vitrue Spree](https://github.com/vitrue/spree) fork.
+
+ORIGINAL README:
+===============
+
 # Official PayPal Express for Spree
 
 This is the official PayPal Express extension for Spree, based on the extension by PaulCC it has been extended to support Spree's
